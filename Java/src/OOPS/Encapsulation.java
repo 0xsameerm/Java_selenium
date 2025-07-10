@@ -1,4 +1,4 @@
-package com.javacode;
+package OOPS;
 class EncapsulationExp {
     private String name;
     private int num;

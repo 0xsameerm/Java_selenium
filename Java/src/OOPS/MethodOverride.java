@@ -1,4 +1,4 @@
-package com.javacode;
+package OOPS;
 //Runtime Polymorphism
 class Parent{
     void print(){

@@ -1,4 +1,4 @@
-package com.javacode;
+package OOPS;
 //Static polymorphism
 
 public class MethodOverloading {

@@ -1,4 +1,4 @@
-package com.javacode;
+package OOPS;
 
 interface printable{
     void print();// interface method (does not have a body)

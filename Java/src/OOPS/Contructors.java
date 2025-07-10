@@ -1,4 +1,4 @@
-package com.javacode;
+package OOPS;
 
 public class Contructors {
     String empname;

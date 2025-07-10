@@ -1,4 +1,4 @@
-package com.javacode;
+package OOPS;
 
 public class Array {
     public static void main(String[] args) {

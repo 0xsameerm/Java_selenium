@@ -1,4 +1,4 @@
-package com.javacode;
+package OOPS;
 // Abstract class
 abstract class Animal {
     // Abstract method (does not have a body)

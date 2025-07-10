@@ -1,4 +1,4 @@
-package com.javacode;
+package OOPS;
 //cannot override static and final methods
 //can call a static method without creating a object
 class InheritanceParent {

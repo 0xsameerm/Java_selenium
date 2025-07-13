@@ -14,8 +14,5 @@ public class hashSet {
         for(String str:set){
             System.out.println(str);
         }
-
-
-
     }
 }

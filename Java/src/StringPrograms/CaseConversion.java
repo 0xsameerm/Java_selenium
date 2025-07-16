@@ -1,4 +1,4 @@
-package BasicPrograms;
+package StringPrograms;
 
 public class CaseConversion {
 

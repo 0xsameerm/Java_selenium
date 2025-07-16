@@ -1,4 +1,4 @@
-package BasicPrograms;
+package StringPrograms;
 
 //Reverse a string and sentence using String and StringBuilder
 public class ReverseString {

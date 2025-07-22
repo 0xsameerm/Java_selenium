@@ -26,7 +26,7 @@ public class Contructors {
         new Contructors("Skyler",420);
 
         //Default constructor
-        Contructors object = new Contructors(); // Create an object of Main class (This will call the constructor)
+        Contructors object = new Contructors();
         System.out.println(object.empid);
         System.out.println(object.x);
   ;  }

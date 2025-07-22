@@ -19,7 +19,7 @@ class cat extends Animal {
 
 public class Abstraction {
     public static void main(String[] args) {
-        cat mycat = new cat(); // Create a Pig object
+        cat mycat = new cat();
         mycat.animalSound();
         mycat.sleep();
     }

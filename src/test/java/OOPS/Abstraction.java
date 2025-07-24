@@ -11,12 +11,12 @@ abstract class Animal {
 
 // Subclass (inherit from Animal)
 class cat extends Animal {
+
     public void animalSound() {
         // The body of animalSound() is provided here
         System.out.println("The cat says: meow");
     }
 }
-
 public class Abstraction {
     public static void main(String[] args) {
         cat mycat = new cat();

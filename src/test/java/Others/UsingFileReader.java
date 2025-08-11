@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class UsingFileReader {
+public class  UsingFileReader {
     public static void main(String[] args) throws IOException {
         String currentLine;
         FileReader freader = new FileReader("Textfile.txt");

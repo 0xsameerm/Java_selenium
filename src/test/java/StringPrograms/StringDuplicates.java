@@ -12,9 +12,13 @@ public class StringDuplicates {
         }
 
 
-
     public static void main(String[] args) {
         String str = "automation";
         System.out.println(removeDuplicatesString(str));
+
+        String[] words = {"regression", "testing", "automation", "sanity"};
+        for(String word:words){
+            System.out.println(removeDuplicatesString(word));
+        }
     }
 }
